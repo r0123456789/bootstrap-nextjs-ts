@@ -1,0 +1,11 @@
+.babelrc
+.editorconfig
+.eslintignore
+.eslintrc.json
+.next
+next-env.d.ts
+next.config.js
+node_modules
+prettier.config.js
+tsconfig.json
+yarn.lock
